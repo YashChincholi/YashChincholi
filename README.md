@@ -112,13 +112,7 @@ I am a **Software Engineer** specializing in Full Stack Development, Backend Arc
 
 ---
 
-### 📈 GitHub Ecosystem
 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashChincholi&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 <div align="center">
   <sub>Built with Code, Coffee, and Curiosity ☕ ✨ — Yash Chincholi</sub>
 </div>
