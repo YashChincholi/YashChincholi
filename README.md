@@ -114,11 +114,6 @@ I am a **Software Engineer** specializing in Full Stack Development, Backend Arc
 
 ### 📈 GitHub Ecosystem
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashChincholi&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="Yash's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChincholi&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="190px" />
-  
-  <br /><br />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashChincholi&theme=tokyonight" alt="GitHub Streak" />
 </div>
